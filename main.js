@@ -90,3 +90,17 @@
 // console.log(func(123));
 
 //  10- masala 107
+// function func(n) {
+//     const numStr = n.toString();
+//     const sortedStr = numStr.split('').sort((a, b) => b - a).join('');
+//     return parseInt(sortedStr);
+// }
+
+// console.log(func(123));
+
+// 11 - masala  108
+// function fun(min, max) {
+//     return Math.floor(Math.random() * (max - min + 1)) + min;
+// }
+
+// console.log(fun(5, 9));
